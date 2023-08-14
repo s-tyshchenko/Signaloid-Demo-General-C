@@ -51,16 +51,8 @@ During the build process, the Signaloid Cloud Developer Platform links the compi
 ## 🍰 Accessing Your GitHub Repository from the Signaloid Cloud Developer Platform
 There are two ways to access a GitHub repository from the Signaloid Cloud Developer Platform.
 
-### Option 1:  Using the “Add to signaloid.io” Button
-This first option makes it easiest for you (and other GitHub users) to run your repository on the Signaloid Cloud Developer Platform. Edit the snippet at the top of this `README.md` to include the URL of your Git repository.
-
-The text you need to change is (replacing the text `<your repository URL here>`):
-```html
 [<img src="https://assets.signaloid.io/add-to-signaloid-cloud-logo-dark-v6.svg#gh-dark-mode-only" alt="[Add to signaloid.io]" height="30">](https://signaloid.io/repositories?connect=https://github.com/s-tyshchenko/Signaloid-Demo-General-C.git#gh-dark-mode-only)
 [<img src="https://assets.signaloid.io/add-to-signaloid-cloud-logo-light-v6.svg#gh-light-mode-only" alt="[Add to signaloid.io]" height="30">](https://signaloid.io/repositories?connect=https://github.com/s-tyshchenko/Signaloid-Demo-General-C.git#gh-light-mode-only)
-```
-
-Next, go to the repository's Github page and click on the “Add to signaloid.io” button.
 
 ### Option 2: Manually Adding Repositories to the Signaloid Cloud Developer Platform
 A second option is to manually add a repository to the Signaloid Cloud Developer Platform. To do so, follow these steps:
